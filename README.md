@@ -34,7 +34,7 @@ C.Right click at "VBoxWindowsAdditions" application and from the pop-up menu, ch
 
 3.Click the drop-down arrow and select Other.
 
-![image](https://github.com/user-attachments/assets/66f8f1ac-f2b7-4ff6-8cd5-115b51f88915
+![image](https://github.com/user-attachments/assets/66f8f1ac-f2b7-4ff6-8cd5-115b51f88915)
 
 Locate and highlight (from the Host OS) the folder that you want to share between the VirtualBox Guest machine and the Host and click Select Folder. *
 Note: To make your life easier, create a new folder for the file sharing, on the Host OS and give it with a recognizable name. (e.g. "Public")
